@@ -1,2 +1,2 @@
 # elasticApiTest
-测试调用java api
+测试调用elasticsearch中java api
